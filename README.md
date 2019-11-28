@@ -1,1 +1,1 @@
-实现图书的添加与删除。
+所用技术：springboot、thymeleaf、jpa。
